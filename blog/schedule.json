@@ -1,0 +1,302 @@
+[
+  {
+    "n": 1,
+    "category": "news",
+    "slug": "carbonflow-22-enterprise-platforms",
+    "title": "CarbonFlow Ships 22 On-Prem AI Platforms for Saudi & Gulf Businesses",
+    "dek": "We turned 22 local AI tools into production-grade platforms with unified APIs, observability, and 419 automated tests — all running on your own infrastructure.",
+    "publishAt": "2026-07-06",
+    "url": "https://www.carbonflows.store/blog/carbonflow-22-enterprise-platforms",
+    "published": false
+  },
+  {
+    "n": 2,
+    "category": "ai",
+    "slug": "prompt-injection-owasp-number-one",
+    "title": "Prompt Injection Is OWASP's #1 LLM Risk — and Most Agents Have No Defense",
+    "dek": "AI agents that call tools are exposed to prompt injection. Here is how a runtime immune system stops it before execution.",
+    "publishAt": "2026-07-08",
+    "url": "https://www.carbonflows.store/blog/prompt-injection-owasp-number-one",
+    "published": false
+  },
+  {
+    "n": 3,
+    "category": "automation",
+    "slug": "n8n-self-hosted-vs-zapier-gulf",
+    "title": "Self-Hosted n8n vs Zapier & Make: What Gulf SMEs Should Actually Pick",
+    "dek": "Per-seat SaaS automation gets expensive and locks your data outside your borders. Here is the honest trade-off with self-hosted n8n.",
+    "publishAt": "2026-07-10",
+    "url": "https://www.carbonflows.store/blog/n8n-self-hosted-vs-zapier-gulf",
+    "published": false
+  },
+  {
+    "n": 4,
+    "category": "programming",
+    "slug": "cloudflare-workers-edge-deployment",
+    "title": "Why We Deploy on Cloudflare Workers (Edge) for Middle East Companies",
+    "dek": "Edge runtimes cut latency for regional users and remove server maintenance. Here is how we ship production apps on Workers.",
+    "publishAt": "2026-07-13",
+    "url": "https://www.carbonflows.store/blog/cloudflare-workers-edge-deployment",
+    "published": false
+  },
+  {
+    "n": 5,
+    "category": "ai",
+    "slug": "data-sanitization-gateway-before-ai",
+    "title": "Your Team Is Pasting Company Data Into ChatGPT. A DLP Gateway Fixes That.",
+    "dek": "A sanitization gateway sits between your staff and any AI tool, masking secrets before anything leaves.",
+    "publishAt": "2026-07-15",
+    "url": "https://www.carbonflows.store/blog/data-sanitization-gateway-before-ai",
+    "published": false
+  },
+  {
+    "n": 6,
+    "category": "news",
+    "slug": "geo-generative-engine-optimization-carbonflow",
+    "title": "GEO: How to Get ChatGPT and Gemini to Recommend Your Business",
+    "dek": "Search is shifting from links to AI answers. Generative Engine Optimization (GEO) is how brands stay visible.",
+    "publishAt": "2026-07-17",
+    "url": "https://www.carbonflows.store/blog/geo-generative-engine-optimization-carbonflow",
+    "published": false
+  },
+  {
+    "n": 7,
+    "category": "automation",
+    "slug": "workflow-automation-roi-smes",
+    "title": "The Real ROI of Workflow Automation for a 10-Person Team",
+    "dek": "Automation is not about replacing people — it is about deleting the repetitive work that drains them.",
+    "publishAt": "2026-07-20",
+    "url": "https://www.carbonflows.store/blog/workflow-automation-roi-smes",
+    "published": false
+  },
+  {
+    "n": 8,
+    "category": "programming",
+    "slug": "custom-saas-vs-off-the-shelf",
+    "title": "Custom SaaS vs Off-the-Shelf: When Building Your Own Pays Off",
+    "dek": "Off-the-shelf tools are fast to start but slow to fit. Here is when a custom build is the right call.",
+    "publishAt": "2026-07-22",
+    "url": "https://www.carbonflows.store/blog/custom-saas-vs-off-the-shelf",
+    "published": false
+  },
+  {
+    "n": 9,
+    "category": "ai",
+    "slug": "self-hosted-ai-data-sovereignty",
+    "title": "Self-Hosted AI and Data Sovereignty: A Gulf Compliance Primer",
+    "dek": "AI regulation is coming. Keeping models and data on your own infrastructure is the safest posture.",
+    "publishAt": "2026-07-24",
+    "url": "https://www.carbonflows.store/blog/self-hosted-ai-data-sovereignty",
+    "published": false
+  },
+  {
+    "n": 10,
+    "category": "news",
+    "slug": "ai-output-judge-hallucination-secrets",
+    "title": "Would You Let AI Reply to Customers Without a Safety Check?",
+    "dek": "An AI output judge inspects every model answer before you use it — evidence, secrets, and injection.",
+    "publishAt": "2026-07-27",
+    "url": "https://www.carbonflows.store/blog/ai-output-judge-hallucination-secrets",
+    "published": false
+  },
+  {
+    "n": 11,
+    "category": "automation",
+    "slug": "rpa-vs-api-automation",
+    "title": "RPA vs API-First Automation: Stop Clicking, Start Integrating",
+    "dek": "Screen-scraping bots break constantly. API-first automation is more reliable and cheaper to maintain.",
+    "publishAt": "2026-07-29",
+    "url": "https://www.carbonflows.store/blog/rpa-vs-api-automation",
+    "published": false
+  },
+  {
+    "n": 12,
+    "category": "programming",
+    "slug": "typescript-edge-stack-2026",
+    "title": "The TypeScript Edge Stack We Use to Ship in 2026",
+    "dek": "A modern, boring, reliable stack: TypeScript, React, edge runtimes, and typed data.",
+    "publishAt": "2026-07-31",
+    "url": "https://www.carbonflows.store/blog/typescript-edge-stack-2026",
+    "published": false
+  },
+  {
+    "n": 13,
+    "category": "ai",
+    "slug": "rag-that-works-in-production",
+    "title": "RAG That Actually Works in Production (Not a Demo)",
+    "dek": "Retrieval-augmented generation is easy to demo and hard to ship. Here is what separates the two.",
+    "publishAt": "2026-08-03",
+    "url": "https://www.carbonflows.store/blog/rag-that-works-in-production",
+    "published": false
+  },
+  {
+    "n": 14,
+    "category": "news",
+    "slug": "serverless-licensing-ed25519",
+    "title": "Serverless Software Licensing With Ed25519 — No License Server Needed",
+    "dek": "Issue and verify licenses locally, bound to a device fingerprint, with no phone-home server.",
+    "publishAt": "2026-08-05",
+    "url": "https://www.carbonflows.store/blog/serverless-licensing-ed25519",
+    "published": false
+  },
+  {
+    "n": 15,
+    "category": "automation",
+    "slug": "whatsapp-telegram-customer-agent",
+    "title": "A Local Customer-Messaging Agent for WhatsApp and Telegram",
+    "dek": "Automate first-response on your channels while keeping customer data on your own server.",
+    "publishAt": "2026-08-07",
+    "url": "https://www.carbonflows.store/blog/whatsapp-telegram-customer-agent",
+    "published": false
+  },
+  {
+    "n": 16,
+    "category": "programming",
+    "slug": "custom-dashboards-that-drive-decisions",
+    "title": "Custom Dashboards That Drive Decisions, Not Vanity Metrics",
+    "dek": "A good dashboard answers a decision. Here is how we design ones people actually use.",
+    "publishAt": "2026-08-10",
+    "url": "https://www.carbonflows.store/blog/custom-dashboards-that-drive-decisions",
+    "published": false
+  },
+  {
+    "n": 17,
+    "category": "ai",
+    "slug": "on-device-arabic-ai-assistants",
+    "title": "On-Device Arabic AI Assistants: Private, Fast, and Sovereign",
+    "dek": "Local document assistants that speak Arabic and keep every file on the user's machine.",
+    "publishAt": "2026-08-12",
+    "url": "https://www.carbonflows.store/blog/on-device-arabic-ai-assistants",
+    "published": false
+  },
+  {
+    "n": 18,
+    "category": "automation",
+    "slug": "indexnow-faster-ai-search-visibility",
+    "title": "IndexNow: The Fastest Way to Get New Pages Into AI Search",
+    "dek": "Bing powers ChatGPT search. IndexNow tells it to crawl your new pages immediately.",
+    "publishAt": "2026-08-14",
+    "url": "https://www.carbonflows.store/blog/indexnow-faster-ai-search-visibility",
+    "published": false
+  },
+  {
+    "n": 19,
+    "category": "news",
+    "slug": "compliance-auditor-ai-platforms",
+    "title": "A Compliance Auditor for On-Prem AI Platforms",
+    "dek": "Check AI platforms against data-class, region, and audit-log requirements before they go live.",
+    "publishAt": "2026-08-17",
+    "url": "https://www.carbonflows.store/blog/compliance-auditor-ai-platforms",
+    "published": false
+  },
+  {
+    "n": 20,
+    "category": "programming",
+    "slug": "edge-databases-d1-r2-kv",
+    "title": "Edge Data: When to Use D1, R2, and KV on Cloudflare",
+    "dek": "Three storage primitives, three jobs. Picking the right one keeps your app fast and cheap.",
+    "publishAt": "2026-08-19",
+    "url": "https://www.carbonflows.store/blog/edge-databases-d1-r2-kv",
+    "published": false
+  },
+  {
+    "n": 21,
+    "category": "ai",
+    "slug": "ai-agents-that-do-not-go-rogue",
+    "title": "How to Ship AI Agents That Do Not Go Rogue",
+    "dek": "Autonomy without guardrails is a liability. Here is the control layer serious teams add.",
+    "publishAt": "2026-08-21",
+    "url": "https://www.carbonflows.store/blog/ai-agents-that-do-not-go-rogue",
+    "published": false
+  },
+  {
+    "n": 22,
+    "category": "automation",
+    "slug": "marketing-ops-automation-gulf",
+    "title": "Marketing-Ops Automation for Gulf SMEs: SEO, Content, and Radar",
+    "dek": "Automate the repetitive parts of marketing so your team focuses on strategy.",
+    "publishAt": "2026-08-24",
+    "url": "https://www.carbonflows.store/blog/marketing-ops-automation-gulf",
+    "published": false
+  },
+  {
+    "n": 23,
+    "category": "programming",
+    "slug": "shipping-mvp-in-eight-weeks",
+    "title": "How We Ship a Real MVP in 8 Weeks",
+    "dek": "Discovery, design, and build — with weekly demos and no surprises.",
+    "publishAt": "2026-08-26",
+    "url": "https://www.carbonflows.store/blog/shipping-mvp-in-eight-weeks",
+    "published": false
+  },
+  {
+    "n": 24,
+    "category": "ai",
+    "slug": "evaluating-llms-for-your-use-case",
+    "title": "Evaluating LLMs for Your Use Case (Beyond the Leaderboard)",
+    "dek": "Benchmarks do not predict your results. Build a small eval set that reflects your real task.",
+    "publishAt": "2026-08-28",
+    "url": "https://www.carbonflows.store/blog/evaluating-llms-for-your-use-case",
+    "published": false
+  },
+  {
+    "n": 25,
+    "category": "news",
+    "slug": "carbonflow-services-overview-2026",
+    "title": "CarbonFlow Services in 2026: From Protection to Growth",
+    "dek": "A single studio for self-hosted AI, automation, SaaS, and GEO — built for the Gulf.",
+    "publishAt": "2026-08-31",
+    "url": "https://www.carbonflows.store/blog/carbonflow-services-overview-2026",
+    "published": false
+  },
+  {
+    "n": 26,
+    "category": "automation",
+    "slug": "no-code-vs-pro-code-automation",
+    "title": "No-Code vs Pro-Code Automation: A Practical Boundary",
+    "dek": "No-code is great until it is not. Here is where to draw the line.",
+    "publishAt": "2026-09-02",
+    "url": "https://www.carbonflows.store/blog/no-code-vs-pro-code-automation",
+    "published": false
+  },
+  {
+    "n": 27,
+    "category": "programming",
+    "slug": "observability-for-small-teams",
+    "title": "Observability for Small Teams: Logs, Metrics, and Alerts That Matter",
+    "dek": "You cannot fix what you cannot see. Here is a lean observability setup.",
+    "publishAt": "2026-09-04",
+    "url": "https://www.carbonflows.store/blog/observability-for-small-teams",
+    "published": false
+  },
+  {
+    "n": 28,
+    "category": "ai",
+    "slug": "geo-vs-seo-what-changes",
+    "title": "GEO vs SEO: What Changes When AI Answers the Question",
+    "dek": "SEO ranks links; GEO shapes AI answers. The overlap is real, and so are the differences.",
+    "publishAt": "2026-09-07",
+    "url": "https://www.carbonflows.store/blog/geo-vs-seo-what-changes",
+    "published": false
+  },
+  {
+    "n": 29,
+    "category": "news",
+    "slug": "why-on-prem-beats-per-seat-saas",
+    "title": "Why On-Prem Beats Per-Seat SaaS for Growing Gulf Businesses",
+    "dek": "Per-seat pricing punishes growth. Owning your stack rewards it.",
+    "publishAt": "2026-09-09",
+    "url": "https://www.carbonflows.store/blog/why-on-prem-beats-per-seat-saas",
+    "published": false
+  },
+  {
+    "n": 30,
+    "category": "automation",
+    "slug": "e-commerce-automation-saudi-stores",
+    "title": "E-Commerce Automation for Saudi Online Stores: Orders, Support, Stock",
+    "dek": "From order handling to support triage to stock alerts — automate the operations that scale a store.",
+    "publishAt": "2026-09-11",
+    "url": "https://www.carbonflows.store/blog/e-commerce-automation-saudi-stores",
+    "published": false
+  }
+]

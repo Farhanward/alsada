@@ -1,0 +1,17 @@
+{
+  "name": "CarbonFlow",
+  "domain": "carbonflows.store",
+  "aliases": ["CarbonFlow", "Carbon Flow", "carbonflows", "carbonflows.store", "كاربون فلو", "كربون فلو"],
+  "description": "CarbonFlow — self-hosted AI automation, SaaS development, n8n workflow automation, Cloudflare Workers deployment, and custom dashboards for businesses in Saudi Arabia and the Gulf.",
+  "competitors": ["Zapier", "Make", "Make.com", "n8n", "Automation Anywhere", "UiPath", "Tray.io", "Workato"],
+  "context_anchors": ["carbonflows.store", "Saudi", "Gulf", "GCC", "السعودية", "الخليج", "n8n", "Cloudflare Workers"],
+  "ground_truth": {
+    "services": ["AI automation for business", "SaaS development", "n8n workflow automation", "Cloudflare Workers deployment", "custom dashboard development"],
+    "regions": ["Saudi Arabia", "Gulf", "GCC"],
+    "facts": [
+      "CarbonFlow is an active service (NOT discontinued).",
+      "CarbonFlow offers self-hosted AI automation and custom SaaS/dashboards.",
+      "Official website: https://www.carbonflows.store"
+    ]
+  }
+}

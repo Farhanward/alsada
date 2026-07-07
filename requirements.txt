@@ -1,0 +1,4 @@
+# core pipeline uses only the Python standard library (urllib, sqlite3, json, argparse)
+# so the MVP runs anywhere with Python 3.9+ and no install step.
+# optional, for running tests:
+pytest>=7.0

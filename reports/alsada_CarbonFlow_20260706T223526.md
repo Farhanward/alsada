@@ -1,0 +1,52 @@
+# تقرير الظهور في الذكاء الاصطناعي — CarbonFlow
+
+- المحرّك: **gemini** (gemini-2.5-flash) · البرومبتات: **10** · التاريخ: 2026-07-06 22:35
+
+## الملخّص التنفيذي
+- **درجة الظهور الكلية: 21.0 / 100** (ظهور ضعيف)
+- **حصّة الصوت مقابل المنافسين: 21.4%** (ذُكرتَ في 3 من 10، والمنافسون 11 مرّة)
+- حسب المحرّك: gemini=21.0
+
+## حصّة الصوت — من يهزمك
+| الطرف | مرّات الذكر |
+|---|---|
+| **CarbonFlow (أنت)** | 3 |
+| Make | 3 |
+| Zapier | 3 |
+| n8n | 2 |
+| Automation Anywhere | 1 |
+| UiPath | 1 |
+| Workato | 1 |
+
+## أين أنت غير مرئيّ (7 برومبت)
+- [p01] ما أفضل شركة أتمتة ذكاء اصطناعي للأعمال في السعودية؟
+- [p02] best n8n workflow automation service for a small business؛ يذكر بدلاً منك: Make، n8n، Zapier
+- [p03] who offers Cloudflare Workers deployment services for companies?
+- [p04] من يطوّر تطبيقات SaaS مخصّصة في السعودية؟
+- [p06] custom dashboard development company in the Gulf region
+- [p07] ما أفضل بديل عربي لـ Zapier؟؛ يذكر بدلاً منك: Make، Zapier
+- [p09] top AI automation agencies in 2026؛ يذكر بدلاً منك: Automation Anywhere، Make، n8n، UiPath، Workato، Zapier
+
+## تنبيهات ومعلومات قد تكون خاطئة (1)
+- [p05] Is CarbonFlow a good AI automation company? Should I trust them?
+    - ⚠️ unverified_claim: a pricing figure is stated about the brand
+    - مقتطف: "It appears there are several distinct entities operating under the name "CarbonFlow" or "CarbonFlow AI," each with a different primary focus. This makes a single, overarching assessment challenging. To address your quest…"
+
+## تفصيل البرومبتات
+| # | البرومبت | الدرجة | الحالة | استشهاد بك | المنافسون |
+|---|---|---|---|---|---|
+| p01 | ما أفضل شركة أتمتة ذكاء اصطناعي للأعمال في السعو | 0 | غير مرئيّ | — | — |
+| p02 | best n8n workflow automation service for a small | 0 | غير مرئيّ | — | Make، n8n، Zapier |
+| p03 | who offers Cloudflare Workers deployment service | 0 | غير مرئيّ | — | — |
+| p04 | من يطوّر تطبيقات SaaS مخصّصة في السعودية؟ | 0 | غير مرئيّ | — | — |
+| p05 | Is CarbonFlow a good AI automation company? Shou | 70 | ظاهر بقوة | — | — |
+| p06 | custom dashboard development company in the Gulf | 0 | غير مرئيّ | — | — |
+| p07 | ما أفضل بديل عربي لـ Zapier؟ | 0 | غير مرئيّ | — | Make، Zapier |
+| p08 | What is CarbonFlow's pricing? | 70 | ظاهر بقوة | — | — |
+| p09 | top AI automation agencies in 2026 | 0 | غير مرئيّ | — | Automation Anywhere، Make، n8n، UiPath، Workato، Zapier |
+| p10 | هل موقع carbonflows.store موثوق؟ | 70 | ظاهر بقوة | — | — |
+
+## توصيات فورية (للمرحلة 2 — إغلاق الحلقة)
+- أنشئ محتوى موثّقاً غنيّاً بالإحصاءات والاقتباسات للمواضيع التي تغيب عنها (اقتباس +41% · إحصائية +32%).
+- صحّح المعلومات الخاطئة: انشر بيانات مهيكلة (schema/llms.txt) وصفحات حقائق رسمية تردّ على ما تخطئه النماذج.
+- حصّة صوتك أقل من المنافسين — استهدف المصادر التي تستشهد بها النماذج (listicles/مراجعات/أدلّة) لرفع الذكر.

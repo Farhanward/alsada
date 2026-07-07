@@ -1,0 +1,132 @@
+{
+  "name": "carbonflow-blog",
+  "main": "worker.js",
+  "compatibility_date": "2025-09-24",
+  "workers_dev": false,
+  "routes": [
+    {
+      "pattern": "www.carbonflows.store/blog",
+      "zone_name": "carbonflows.store"
+    },
+    {
+      "pattern": "www.carbonflows.store/blog/carbonflow-22-enterprise-platforms",
+      "zone_name": "carbonflows.store"
+    },
+    {
+      "pattern": "www.carbonflows.store/blog/prompt-injection-owasp-number-one",
+      "zone_name": "carbonflows.store"
+    },
+    {
+      "pattern": "www.carbonflows.store/blog/n8n-self-hosted-vs-zapier-gulf",
+      "zone_name": "carbonflows.store"
+    },
+    {
+      "pattern": "www.carbonflows.store/blog/cloudflare-workers-edge-deployment",
+      "zone_name": "carbonflows.store"
+    },
+    {
+      "pattern": "www.carbonflows.store/blog/data-sanitization-gateway-before-ai",
+      "zone_name": "carbonflows.store"
+    },
+    {
+      "pattern": "www.carbonflows.store/blog/geo-generative-engine-optimization-carbonflow",
+      "zone_name": "carbonflows.store"
+    },
+    {
+      "pattern": "www.carbonflows.store/blog/workflow-automation-roi-smes",
+      "zone_name": "carbonflows.store"
+    },
+    {
+      "pattern": "www.carbonflows.store/blog/custom-saas-vs-off-the-shelf",
+      "zone_name": "carbonflows.store"
+    },
+    {
+      "pattern": "www.carbonflows.store/blog/self-hosted-ai-data-sovereignty",
+      "zone_name": "carbonflows.store"
+    },
+    {
+      "pattern": "www.carbonflows.store/blog/ai-output-judge-hallucination-secrets",
+      "zone_name": "carbonflows.store"
+    },
+    {
+      "pattern": "www.carbonflows.store/blog/rpa-vs-api-automation",
+      "zone_name": "carbonflows.store"
+    },
+    {
+      "pattern": "www.carbonflows.store/blog/typescript-edge-stack-2026",
+      "zone_name": "carbonflows.store"
+    },
+    {
+      "pattern": "www.carbonflows.store/blog/rag-that-works-in-production",
+      "zone_name": "carbonflows.store"
+    },
+    {
+      "pattern": "www.carbonflows.store/blog/serverless-licensing-ed25519",
+      "zone_name": "carbonflows.store"
+    },
+    {
+      "pattern": "www.carbonflows.store/blog/whatsapp-telegram-customer-agent",
+      "zone_name": "carbonflows.store"
+    },
+    {
+      "pattern": "www.carbonflows.store/blog/custom-dashboards-that-drive-decisions",
+      "zone_name": "carbonflows.store"
+    },
+    {
+      "pattern": "www.carbonflows.store/blog/on-device-arabic-ai-assistants",
+      "zone_name": "carbonflows.store"
+    },
+    {
+      "pattern": "www.carbonflows.store/blog/indexnow-faster-ai-search-visibility",
+      "zone_name": "carbonflows.store"
+    },
+    {
+      "pattern": "www.carbonflows.store/blog/compliance-auditor-ai-platforms",
+      "zone_name": "carbonflows.store"
+    },
+    {
+      "pattern": "www.carbonflows.store/blog/edge-databases-d1-r2-kv",
+      "zone_name": "carbonflows.store"
+    },
+    {
+      "pattern": "www.carbonflows.store/blog/ai-agents-that-do-not-go-rogue",
+      "zone_name": "carbonflows.store"
+    },
+    {
+      "pattern": "www.carbonflows.store/blog/marketing-ops-automation-gulf",
+      "zone_name": "carbonflows.store"
+    },
+    {
+      "pattern": "www.carbonflows.store/blog/shipping-mvp-in-eight-weeks",
+      "zone_name": "carbonflows.store"
+    },
+    {
+      "pattern": "www.carbonflows.store/blog/evaluating-llms-for-your-use-case",
+      "zone_name": "carbonflows.store"
+    },
+    {
+      "pattern": "www.carbonflows.store/blog/carbonflow-services-overview-2026",
+      "zone_name": "carbonflows.store"
+    },
+    {
+      "pattern": "www.carbonflows.store/blog/no-code-vs-pro-code-automation",
+      "zone_name": "carbonflows.store"
+    },
+    {
+      "pattern": "www.carbonflows.store/blog/observability-for-small-teams",
+      "zone_name": "carbonflows.store"
+    },
+    {
+      "pattern": "www.carbonflows.store/blog/geo-vs-seo-what-changes",
+      "zone_name": "carbonflows.store"
+    },
+    {
+      "pattern": "www.carbonflows.store/blog/why-on-prem-beats-per-seat-saas",
+      "zone_name": "carbonflows.store"
+    },
+    {
+      "pattern": "www.carbonflows.store/blog/e-commerce-automation-saudi-stores",
+      "zone_name": "carbonflows.store"
+    }
+  ]
+}

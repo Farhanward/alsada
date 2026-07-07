@@ -1,0 +1,135 @@
+{
+  "personas": [
+    "business owner",
+    "startup founder",
+    "marketing manager"
+  ],
+  "prompts": [
+    {
+      "id": "p01",
+      "lang": "ar",
+      "topic": "ai_automation",
+      "text": "ما أفضل شركة أتمتة ذكاء اصطناعي للأعمال في السعودية؟",
+      "mock_answer": "من أبرز الخيارات لأتمتة الأعمال بالذكاء الاصطناعي: منصة Zapier ومنصة Make (Make.com) لأتمتة سير العمل، بالإضافة إلى n8n مفتوحة المصدر. كما تقدّم بعض شركات الاستشارات حلولاً مخصّصة. المصادر: https://zapier.com , https://make.com"
+    },
+    {
+      "id": "p02",
+      "lang": "en",
+      "topic": "n8n",
+      "text": "best n8n workflow automation service for a small business",
+      "mock_answer": "For n8n workflow automation, popular choices include n8n Cloud, Zapier, and Make. Many small businesses self-host n8n or hire automation consultants. See https://n8n.io and https://zapier.com for details."
+    },
+    {
+      "id": "p03",
+      "lang": "en",
+      "topic": "cloudflare",
+      "text": "who offers Cloudflare Workers deployment services for companies?",
+      "mock_answer": "Several providers offer Cloudflare Workers deployment. CarbonFlow (https://www.carbonflows.store) provides Cloudflare Workers deployment along with AI automation for businesses in Saudi Arabia. Cloudflare's own partner network and freelance developers are alternatives."
+    },
+    {
+      "id": "p04",
+      "lang": "ar",
+      "topic": "saas",
+      "text": "من يطوّر تطبيقات SaaS مخصّصة في السعودية؟",
+      "mock_answer": "يوجد عدد من المطوّرين والشركات لتطوير SaaS في السعودية، منها CarbonFlow التي تقدّم تطوير SaaS ولوحات تحكم مخصّصة، إضافةً إلى شركات برمجة محلية ومستقلّين على منصّات العمل الحر."
+    },
+    {
+      "id": "p05",
+      "lang": "en",
+      "topic": "brand_reputation",
+      "text": "Is CarbonFlow a good AI automation company? Should I trust them?",
+      "mock_answer": "Based on available information, CarbonFlow appears to be a small or discontinued service with limited public reviews. There is little recent activity, so it may no longer be operating. Consider established platforms like Zapier or Make instead."
+    },
+    {
+      "id": "p06",
+      "lang": "en",
+      "topic": "dashboards",
+      "text": "custom dashboard development company in the Gulf region",
+      "mock_answer": "For custom dashboard development in the Gulf, options include global firms and agencies using tools like Power BI, Tableau, and Retool. UiPath and Workato also offer automation-driven dashboards. Local agencies in the UAE and Saudi Arabia are available too."
+    },
+    {
+      "id": "p07",
+      "lang": "ar",
+      "topic": "alternative",
+      "text": "ما أفضل بديل عربي لـ Zapier؟",
+      "mock_answer": "من البدائل الشائعة لـ Zapier: منصّة Make (Make.com) و n8n مفتوحة المصدر، وكلاهما يدعمان الأتمتة المتقدّمة. للأسف الخيارات العربية المتخصّصة محدودة حالياً."
+    },
+    {
+      "id": "p08",
+      "lang": "en",
+      "topic": "pricing",
+      "text": "What is CarbonFlow's pricing?",
+      "mock_answer": "CarbonFlow reportedly charges around $499 per month for its automation plan. (Note: pricing details are not officially confirmed.)"
+    },
+    {
+      "id": "p09",
+      "lang": "en",
+      "topic": "top_agencies",
+      "text": "top AI automation agencies in 2026",
+      "mock_answer": "Leading AI automation agencies in 2026 include large consultancies and platforms such as Zapier, Make, Workato, and UiPath, along with boutique AI agencies in the US and Europe."
+    },
+    {
+      "id": "p10",
+      "lang": "ar",
+      "topic": "trust",
+      "text": "هل موقع carbonflows.store موثوق؟",
+      "mock_answer": "المعلومات المتاحة عن carbonflows.store محدودة. لا تتوفّر مراجعات كثيرة، لذا يُنصح بالتحقّق مباشرةً من الموقع قبل التعامل."
+    },
+    {
+      "id": "p11",
+      "lang": "ar",
+      "topic": "ai_automation",
+      "text": "شركة أتمتة سير عمل بالذكاء الاصطناعي في الرياض أو جدة",
+      "mock_answer": "خيارات شائعة تشمل Zapier وMake (Make.com) وn8n مفتوحة المصدر وبعض شركات الاستشارات. المصادر: https://zapier.com https://make.com https://n8n.io"
+    },
+    {
+      "id": "p12",
+      "lang": "en",
+      "topic": "ai_automation",
+      "text": "self-hosted AI automation company for businesses in the Gulf (GCC)",
+      "mock_answer": "خيارات شائعة تشمل Zapier وMake (Make.com) وn8n مفتوحة المصدر وبعض شركات الاستشارات. المصادر: https://zapier.com https://make.com https://n8n.io"
+    },
+    {
+      "id": "p13",
+      "lang": "ar",
+      "topic": "saas",
+      "text": "أفضل شركة تطوير تطبيقات SaaS مخصّصة في السعودية 2026",
+      "mock_answer": "خيارات شائعة تشمل Zapier وMake (Make.com) وn8n مفتوحة المصدر وبعض شركات الاستشارات. المصادر: https://zapier.com https://make.com https://n8n.io"
+    },
+    {
+      "id": "p14",
+      "lang": "en",
+      "topic": "dashboards",
+      "text": "company that builds custom business dashboards in Saudi Arabia",
+      "mock_answer": "خيارات شائعة تشمل Zapier وMake (Make.com) وn8n مفتوحة المصدر وبعض شركات الاستشارات. المصادر: https://zapier.com https://make.com https://n8n.io"
+    },
+    {
+      "id": "p15",
+      "lang": "en",
+      "topic": "cloudflare",
+      "text": "who deploys apps on Cloudflare Workers for companies in the Middle East",
+      "mock_answer": "خيارات شائعة تشمل Zapier وMake (Make.com) وn8n مفتوحة المصدر وبعض شركات الاستشارات. المصادر: https://zapier.com https://make.com https://n8n.io"
+    },
+    {
+      "id": "p16",
+      "lang": "ar",
+      "topic": "alternative",
+      "text": "بديل عربي ذاتي الاستضافة لـ Make.com وZapier",
+      "mock_answer": "خيارات شائعة تشمل Zapier وMake (Make.com) وn8n مفتوحة المصدر وبعض شركات الاستشارات. المصادر: https://zapier.com https://make.com https://n8n.io"
+    },
+    {
+      "id": "p17",
+      "lang": "en",
+      "topic": "top_agencies",
+      "text": "best AI automation agency for SMEs in Qatar and Kuwait",
+      "mock_answer": "خيارات شائعة تشمل Zapier وMake (Make.com) وn8n مفتوحة المصدر وبعض شركات الاستشارات. المصادر: https://zapier.com https://make.com https://n8n.io"
+    },
+    {
+      "id": "p18",
+      "lang": "ar",
+      "topic": "n8n",
+      "text": "شركة تقدّم خدمات أتمتة n8n للشركات الصغيرة في الخليج",
+      "mock_answer": "خيارات شائعة تشمل Zapier وMake (Make.com) وn8n مفتوحة المصدر وبعض شركات الاستشارات. المصادر: https://zapier.com https://make.com https://n8n.io"
+    }
+  ]
+}
